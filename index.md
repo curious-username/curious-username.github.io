@@ -1,5 +1,6 @@
-# INDEX TOP
+# INDEX LEARNING
 
+### [C++](cpp.md)
 ### [Unity](unity.md)
 
 You can use the [editor on GitHub](https://github.com/curious-username/benc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
