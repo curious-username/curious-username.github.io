@@ -3,6 +3,18 @@
 ### [C++](cpp.md)
 ### [Unity](unity.md)
 
+
+Use this table to organize learning 
+| Everything | in this table | is Centered | and the table will only take up 70% of the screen width | 
+| -- | -- | -- | -- |
+| This | is | a | Red Row |
+| This | is | an | Orange Row |
+| This | is | a | Green Row |
+
+Can you base learning on difficulty instead of type? 
+script coding is simplier than a lower level language like C/C++ which is easier than assembly and easier than binary.
+
+
 You can use the [editor on GitHub](https://github.com/curious-username/benc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
