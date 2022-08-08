@@ -69,10 +69,10 @@ a)  Create various unity variables, serialize them, and see what it's like
 
 ---
 
-###PROJECT TIME
+### PROJECT TIME
 
 ##### Idea keeps evolving. It's getting RPG'ish. Create a script where your cube will use everyone of these IN GAME.
 
 #### ITEMS AVAILABLE: common C# and Unity variables, serializefield, debug.log();
 
-``` example here, i am burned blah.
+///example here
