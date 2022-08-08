@@ -40,6 +40,7 @@ GameObject, Animation, AudioSource
   
   a) Create any variable and use Debug.Log(). Use different types and see what you see in Console.
   
+  b) really nothing crazy here, basic printing and variables. **Move on.**
   
   
 ---
@@ -49,17 +50,29 @@ GameObject, Animation, AudioSource
 Almost anything in Unity can be assigned to a variables if available in the framework
 
 Transform playerTransform; // accesses the transform of an object (the position x,y,z)
+
 Gameobject playerLaser; // access the gameobject within the scene
+
 Animation playerAnim; // access the animation attached or assigned
 
-You can drag and drop items 
+Unity has a cool feature called [SerializeField]. This attribute allowed you to drag and drop that variable type into a field within the Unity GUI.
+
+  ie. [SerializeField] GameObject playerLaser;
 
 //INSERT DIAGRAM HERE//
 
-- TRY creating each. 
+- TRY creating various Unity specific variables and serialize them to see how it looks like in Unity.
+
+##### MINI-PROJECTS
+
+a)  Create various unity variables, serialize them, and see what it's like
 
 ---
 
 ###PROJECT TIME
 
-You know variable basics for both unity and C#. You know 
+##### Idea keeps evolving. It's getting RPG'ish. Create a script where your cube will use everyone of these IN GAME.
+
+#### ITEMS AVAILABLE: common C# and Unity variables, serializefield, debug.log();
+
+``` example here, i am burned blah.
