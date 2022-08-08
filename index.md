@@ -1,9 +1,9 @@
 # PICTURE BOOKS AND PROJECTS.
 
-## Projects from the basics and up, no pages upon pages of explaination. Picture books and projects. Best and only way to learn is doing it. Can't make a nuclear power plant in your garage, but I am sure you could virtually do it in Unity.
+### Projects from the basics and up, no pages upon pages of explaination. Diagrams and projects. Best and only way to learn is doing it. Can't make a nuclear power plant in your garage, but I am sure you could virtually do it in Unity.
 
-### [C++](cpp.md)
-### [Unity](unity.md)
+#### [C++](cpp.md)
+#### [Unity](unity.md)
 
 
 Use this table to organize learning 
