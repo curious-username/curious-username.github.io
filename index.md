@@ -14,7 +14,7 @@ Use this table to organize learning
 Can you base learning on difficulty instead of type? 
 script coding is simplier than a lower level language like C/C++ which is easier than assembly and easier than binary.
 
-
+<!--
 You can use the [editor on GitHub](https://github.com/curious-username/benc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -50,3 +50,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
